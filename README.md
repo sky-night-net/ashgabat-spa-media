@@ -13,4 +13,6 @@ Unmodified originals are retained in the owner's local migration archive. No Wor
 
 Media rights remain with their original rights holders; publication does not grant an open-source license to the images, logo or videos.
 
-CDN URLs must reference the exact Git commit so updates do not invalidate existing assets.
+Primary delivery: https://sky-night-net.github.io/ashgabat-spa-media/ (GitHub Pages). The local redesign includes bundled fallback copies. jsDelivr is an alternate video path pinned to the ffdf7c1fbf0789f744b99c3a32c30bb35b8e43c0 commit; it returned some unavailable files during the full check, so it is not the main dependency.
+
+Keep existing asset filenames unchanged. Publish future media revisions under new/versioned paths. Commit-pinned CDN URLs must reference the exact Git commit.
