@@ -1,0 +1,2340 @@
+{
+  "createdAtUtc": "2026-10-12T10:01:51Z",
+  "method": "macOS AVFoundation avconvert",
+  "target": "H.264 MP4 using 720p presets, source orientation preserved; smaller sources preserved",
+  "count": 38,
+  "totalOutputBytes": 106325861,
+  "allSuccessful": true,
+  "allSourcesUnchanged": true,
+  "videos": [
+    {
+      "sourceId": 2141,
+      "sourcePath": "cdn-assets/media/media-2141.mp4",
+      "sourceSha256": "bd82f88b464492f1be515b1e2f307e01677588effcb32a6272823c4c9e598d86",
+      "sourceBytes": 12370958,
+      "sourceMetadata": {
+        "durationSeconds": 42.306108843537416,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2141.mp4",
+      "outputBytes": 12349251,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "e9f6e3160d7b907a64f8787b8676fe94f361ff112ddbe1d9697b0c1b00b92efd",
+      "outputMetadata": {
+        "durationSeconds": 42.30529894770408,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "durationDeltaSeconds": -0.00081,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2141.jpg",
+      "posterBytes": 66126,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2234,
+      "sourcePath": "cdn-assets/media/media-2234.mp4",
+      "sourceSha256": "2b4ec90180cb6bdd6b48ba3e10d85ab9ab701e2632c6c760d9dd13e0874303f3",
+      "sourceBytes": 1610675,
+      "sourceMetadata": {
+        "durationSeconds": 14.648,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.038299560546875,
+            "height": 480,
+            "type": "vide",
+            "width": 640
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2234.mp4",
+      "outputBytes": 1021775,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "cfb2f1717c8fb95934707fc5fa3b4d0e8d4d15b1fb8348d8a23eb7e01606a110",
+      "outputMetadata": {
+        "durationSeconds": 14.648,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.970029830932617,
+            "height": 480,
+            "type": "vide",
+            "width": 640
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2234.jpg",
+      "posterBytes": 22778,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2235,
+      "sourcePath": "cdn-assets/media/media-2235.mp4",
+      "sourceSha256": "2f111af040e46904f6f1e6610cbcfb135efa93ce65f96e236a90d85b87a446e0",
+      "sourceBytes": 2436457,
+      "sourceMetadata": {
+        "durationSeconds": 22.39,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.014694213867188,
+            "height": 1080,
+            "type": "vide",
+            "width": 1920
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2235.mp4",
+      "outputBytes": 7972184,
+      "preset": "PresetAppleM4V720pHD",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": "Converted to unencrypted MP4-family M4V container and served with .mp4 extension; H.264/AAC verified by AVFoundation."
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "d3f8ee47e9d1fc4c1ca365de24504269125bca80acf94895f9d1071a98fbbf36",
+      "outputMetadata": {
+        "durationSeconds": 22.4,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.01,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2235.jpg",
+      "posterBytes": 35476,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2236,
+      "sourcePath": "cdn-assets/media/media-2236.mp4",
+      "sourceSha256": "9a5a496cbd97074789b0bc62a740a9282ccc89e3d9984413fe7f3a6aea92ddc0",
+      "sourceBytes": 1434716,
+      "sourceMetadata": {
+        "durationSeconds": 13.647,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.043306350708008,
+            "height": 1080,
+            "type": "vide",
+            "width": 1920
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2236.mp4",
+      "outputBytes": 4336448,
+      "preset": "PresetAppleM4V720pHD",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": "Converted to unencrypted MP4-family M4V container and served with .mp4 extension; H.264/AAC verified by AVFoundation."
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "1a1722938bd4fa72c02aae6085729a35cc2d157cddad70155935e004abc116cd",
+      "outputMetadata": {
+        "durationSeconds": 13.666666666666666,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.019667,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2236.jpg",
+      "posterBytes": 39277,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2237,
+      "sourcePath": "cdn-assets/media/media-2237.mp4",
+      "sourceSha256": "ce4d9372897961661967cf3f426c1152788d27d1d92012418b47ea10963dfe72",
+      "sourceBytes": 767699,
+      "sourceMetadata": {
+        "durationSeconds": 6.507,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.123722076416016,
+            "height": 1080,
+            "type": "vide",
+            "width": 1920
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2237.mp4",
+      "outputBytes": 2308794,
+      "preset": "PresetAppleM4V720pHD",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": "Converted to unencrypted MP4-family M4V container and served with .mp4 extension; H.264/AAC verified by AVFoundation."
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "7bce3e11b34dba0c6f79ecb90525adc1b3b9584e57fd70fc9736bd417d03a1e0",
+      "outputMetadata": {
+        "durationSeconds": 6.533333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.026333,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2237.jpg",
+      "posterBytes": 33331,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2238,
+      "sourcePath": "cdn-assets/media/media-2238.mp4",
+      "sourceSha256": "4f480a52b0627b2ca195ddcfe178459ee3b194bc587a9b1a22ac22ec7de71a15",
+      "sourceBytes": 2864259,
+      "sourceMetadata": {
+        "durationSeconds": 8.733333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.000001907348633,
+            "height": 640,
+            "type": "vide",
+            "width": 360
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2238.mp4",
+      "outputBytes": 2864253,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "aafd89db6c90d78c121deb62b6484b02c16b5f63bc46d6dd9701cdbca2a4b796",
+      "outputMetadata": {
+        "durationSeconds": 8.733333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.000001907348633,
+            "height": 640,
+            "type": "vide",
+            "width": 360
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2238.jpg",
+      "posterBytes": 41412,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2239,
+      "sourcePath": "cdn-assets/media/media-2239.mp4",
+      "sourceSha256": "ff26b3b8a7833284387763b0425fcdd47fafca38f190155a3a649f64a7e2ca86",
+      "sourceBytes": 3302403,
+      "sourceMetadata": {
+        "durationSeconds": 15.534,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2239.mp4",
+      "outputBytes": 3294424,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "784b5b2644042d2177d0491eb72abc5ae51788559192c8fda66cdbfd61e1e321",
+      "outputMetadata": {
+        "durationSeconds": 15.533984375,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.998743057250977,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1.6e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2239.jpg",
+      "posterBytes": 52608,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2240,
+      "sourcePath": "cdn-assets/media/media-2240.mp4",
+      "sourceSha256": "17a18fd5bd572b009df605c44e72458833aab5ef43890315b24721eefc3d9b71",
+      "sourceBytes": 814753,
+      "sourceMetadata": {
+        "durationSeconds": 25.1,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 406,
+            "type": "vide",
+            "width": 721
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2240.mp4",
+      "outputBytes": 814866,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "74a2a41dde18021241c813fae34bac4dcc3ba39807a95ae660b798d4c8bb4d6e",
+      "outputMetadata": {
+        "durationSeconds": 25.1,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 406,
+            "type": "vide",
+            "width": 721
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2240.jpg",
+      "posterBytes": 40292,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2241,
+      "sourcePath": "cdn-assets/media/media-2241.mp4",
+      "sourceSha256": "7712fd70e131742659a2e032b023621b1535ae851760817b4347e0cf3f489303",
+      "sourceBytes": 1398613,
+      "sourceMetadata": {
+        "durationSeconds": 43.322,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.007999420166016,
+            "height": 638,
+            "type": "vide",
+            "width": 1134
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2241.mp4",
+      "outputBytes": 1398790,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "9f829ba40cdd8439e89775aa5e727da2bf95d4157b5c7a2d19d8da84e795d261",
+      "outputMetadata": {
+        "durationSeconds": 43.321980805118635,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.007862091064453,
+            "height": 638,
+            "type": "vide",
+            "width": 1134
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1.9e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2241.jpg",
+      "posterBytes": 52177,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2242,
+      "sourcePath": "cdn-assets/media/media-2242.mp4",
+      "sourceSha256": "57fee2e83197865d58c4e639c777d9cb4d7f20140c5bfbcbeed318fb29d82528",
+      "sourceBytes": 1897694,
+      "sourceMetadata": {
+        "durationSeconds": 9.534,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.000001907348633,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2242.mp4",
+      "outputBytes": 3697596,
+      "preset": "PresetAppleM4V720pHD",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "f6ced4cf68b80f1d9f30305637ebde31bfaf58ce15fe5bfcfcf1969d6b9f4ad2",
+      "outputMetadata": {
+        "durationSeconds": 9.533333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "durationDeltaSeconds": -0.000667,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2242.jpg",
+      "posterBytes": 46863,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2243,
+      "sourcePath": "cdn-assets/media/media-2243.mp4",
+      "sourceSha256": "cd14c934f97fc678afa6866db5a7d3758e7914e214c9a82f528d2491b3d337e6",
+      "sourceBytes": 1479454,
+      "sourceMetadata": {
+        "durationSeconds": 6.4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.685863494873047,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2243.mp4",
+      "outputBytes": 1479483,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "6856c715cb1a58d4680c6567417feee2048a9030e09a150264cac79feea1c02f",
+      "outputMetadata": {
+        "durationSeconds": 6.4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.685863494873047,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2243.jpg",
+      "posterBytes": 71518,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2245,
+      "sourcePath": "cdn-assets/media/media-2245.mp4",
+      "sourceSha256": "1ad502dd3fd105f1a80250266b77b6fd215da713d498bce4a49c1248811d89f0",
+      "sourceBytes": 924599,
+      "sourceMetadata": {
+        "durationSeconds": 11.4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 480,
+            "type": "vide",
+            "width": 269
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2245.mp4",
+      "outputBytes": 918716,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "74572695a5484b0e6d34b60b6cd7699677a536b0786d60409f6999767d338ef6",
+      "outputMetadata": {
+        "durationSeconds": 11.4,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 480,
+            "type": "vide",
+            "width": 269
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2245.jpg",
+      "posterBytes": 29070,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2246,
+      "sourcePath": "cdn-assets/media/media-2246.mp4",
+      "sourceSha256": "8da30b28d082331d9f905164681ab801bd742d79e8fb9e340c850428175502b6",
+      "sourceBytes": 3478467,
+      "sourceMetadata": {
+        "durationSeconds": 16.252328798185943,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 59.9630012512207,
+            "height": 720,
+            "type": "vide",
+            "width": 404
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2246.mp4",
+      "outputBytes": 3466924,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "eff40a92e26c54da23e8811bf1fce53dac7bc19345618827fcbe8819fedee1ad",
+      "outputMetadata": {
+        "durationSeconds": 16.252316274,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 59.9630012512207,
+            "height": 720,
+            "type": "vide",
+            "width": 404
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1.3e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2246.jpg",
+      "posterBytes": 53441,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2247,
+      "sourcePath": "cdn-assets/media/media-2247.mp4",
+      "sourceSha256": "351942f269ebc0f74e1911fa441050bce9e3739e247c2398db0f6a7567da858d",
+      "sourceBytes": 1122405,
+      "sourceMetadata": {
+        "durationSeconds": 17.1,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2247.mp4",
+      "outputBytes": 1122470,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "c84023a27d05e50e968dd1fdab5cff2ddaacb4a398ddec31705b1ca42f6dd9a7",
+      "outputMetadata": {
+        "durationSeconds": 17.1,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 1280
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2247.jpg",
+      "posterBytes": 52170,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2248,
+      "sourcePath": "cdn-assets/media/media-2248.mp4",
+      "sourceSha256": "b4386e9c8c15e879d37774b441566fe07d67b67f448db50061333a48d9157cdb",
+      "sourceBytes": 3013838,
+      "sourceMetadata": {
+        "durationSeconds": 13.9,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 424
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2248.mp4",
+      "outputBytes": 3006659,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "a07ec46dd86e08cf732a55bc6a1ec9019b7d1e1184a5b0a92c1225d7100433e2",
+      "outputMetadata": {
+        "durationSeconds": 13.9,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 424
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2248.jpg",
+      "posterBytes": 37362,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2250,
+      "sourcePath": "cdn-assets/media/media-2250.mp4",
+      "sourceSha256": "6b78b87ac2d8a50faeeb7073e50a459adb787877d729bd155ae45b769d80e3e3",
+      "sourceBytes": 494114,
+      "sourceMetadata": {
+        "durationSeconds": 7.567,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 720,
+            "type": "vide",
+            "width": 404
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2250.mp4",
+      "outputBytes": 494159,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "b90ac13b051c92e1f6841580dc9fd6d8f421b076a10198ba898244ca259173c2",
+      "outputMetadata": {
+        "durationSeconds": 7.5669921875,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.998708724975586,
+            "height": 720,
+            "type": "vide",
+            "width": 404
+          }
+        ]
+      },
+      "durationDeltaSeconds": -8e-06,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2250.jpg",
+      "posterBytes": 49734,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2251,
+      "sourcePath": "cdn-assets/media/media-2251.mp4",
+      "sourceSha256": "b0a6401f6f9213ff0cae457c3ea5b5d88e7ccddfae70e0892321360595514fc8",
+      "sourceBytes": 2550594,
+      "sourceMetadata": {
+        "durationSeconds": 24.01532879818594,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.903120040893555,
+            "height": 348,
+            "type": "vide",
+            "width": 402
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2251.mp4",
+      "outputBytes": 2538339,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "51e2a8963ba89a1392f0ee63bd6c5290d937e9976463b085b0c0e5473ea741ed",
+      "outputMetadata": {
+        "durationSeconds": 24.015312791249602,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.903120040893555,
+            "height": 348,
+            "type": "vide",
+            "width": 402
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1.6e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2251.jpg",
+      "posterBytes": 41712,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2252,
+      "sourcePath": "cdn-assets/media/media-2252.mp4",
+      "sourceSha256": "8d9d8d82f98b3b9968190f4abf8fb7e6623de78cd04fb3e7e0555eb117e17fb2",
+      "sourceBytes": 2844673,
+      "sourceMetadata": {
+        "durationSeconds": 35.13032879818594,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.985000610351562,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2252.mp4",
+      "outputBytes": 2826590,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "e6b56856174e11b8155e9cd2df540efa89ab0e11baab09c3bf8d28086719f3c9",
+      "outputMetadata": {
+        "durationSeconds": 35.13032296193448,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.984643936157227,
+            "height": 720,
+            "type": "vide",
+            "width": 408
+          }
+        ]
+      },
+      "durationDeltaSeconds": -6e-06,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2252.jpg",
+      "posterBytes": 49745,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2253,
+      "sourcePath": "cdn-assets/media/media-2253.mp4",
+      "sourceSha256": "8e2fc1051b575a1c6aec35f3c05711a882f227694382d1891bf14b5cd3a93f15",
+      "sourceBytes": 759986,
+      "sourceMetadata": {
+        "durationSeconds": 6.557,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 59.940059661865234,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2253.mp4",
+      "outputBytes": 755339,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "9cbadb822e44eed5061d289c71bff93b56e3dbf4ebb5bde9022426ec0a52a705",
+      "outputMetadata": {
+        "durationSeconds": 6.557,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 59.93594741821289,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2253.jpg",
+      "posterBytes": 94831,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2254,
+      "sourcePath": "cdn-assets/media/media-2254.mp4",
+      "sourceSha256": "e9626518c38336dd3d4276b56c2af86f1ca9bb5f62d3918f648348fc8438eb9f",
+      "sourceBytes": 680419,
+      "sourceMetadata": {
+        "durationSeconds": 10.467,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2254.mp4",
+      "outputBytes": 680480,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "8f724422293ec3869b3fb924f9254a728ad82587bdb613ddd1455c33d5ae41e6",
+      "outputMetadata": {
+        "durationSeconds": 10.4669921875,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.999067306518555,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": -8e-06,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2254.jpg",
+      "posterBytes": 42782,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2255,
+      "sourcePath": "cdn-assets/media/media-2255.mp4",
+      "sourceSha256": "281bb446b4df4a2212ddc31fd6c1bfc74093b6051f1cc0efc0310b23e2b7acc6",
+      "sourceBytes": 242754,
+      "sourceMetadata": {
+        "durationSeconds": 4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2255.mp4",
+      "outputBytes": 242759,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "35de477e4afd97a6f83107a84375eb5b94aaf409306cb68e1d6c74101758fb85",
+      "outputMetadata": {
+        "durationSeconds": 4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2255.jpg",
+      "posterBytes": 54016,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2256,
+      "sourcePath": "cdn-assets/media/media-2256.mp4",
+      "sourceSha256": "281bb446b4df4a2212ddc31fd6c1bfc74093b6051f1cc0efc0310b23e2b7acc6",
+      "sourceBytes": 242754,
+      "sourceMetadata": {
+        "durationSeconds": 4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2256.mp4",
+      "outputBytes": 242759,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "98bcbff4b98dd7759a5b9bb7af1dc2d33920412b24b74cdae9acf129bad1c6ae",
+      "outputMetadata": {
+        "durationSeconds": 4,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2256.jpg",
+      "posterBytes": 54016,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2257,
+      "sourcePath": "cdn-assets/media/media-2257.mp4",
+      "sourceSha256": "e75c9abb38dc317d2213db92da5e317ffa3951b347ab20db4d8c27d70eb3839e",
+      "sourceBytes": 554084,
+      "sourceMetadata": {
+        "durationSeconds": 8.534,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 607
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2257.mp4",
+      "outputBytes": 554133,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "165140963a235c003eacec1d7b47b84673fe5e96059ecba784eb05c12b19618b",
+      "outputMetadata": {
+        "durationSeconds": 8.533984375,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.997711181640625,
+            "height": 1080,
+            "type": "vide",
+            "width": 607
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1.6e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2257.jpg",
+      "posterBytes": 82024,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2258,
+      "sourcePath": "cdn-assets/media/media-2258.mp4",
+      "sourceSha256": "4d9f1a93cc0f8d02210cb4c22a5e0dc36b6def76be5010a4680554419e772fdd",
+      "sourceBytes": 499853,
+      "sourceMetadata": {
+        "durationSeconds": 7.767,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 607
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2258.mp4",
+      "outputBytes": 499898,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "85b4500d4d228abedeecdf18011c5f75a0a26e6793f937cb98d955eae8eaf551",
+      "outputMetadata": {
+        "durationSeconds": 7.7669921875,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.998743057250977,
+            "height": 1080,
+            "type": "vide",
+            "width": 607
+          }
+        ]
+      },
+      "durationDeltaSeconds": -8e-06,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2258.jpg",
+      "posterBytes": 59120,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2259,
+      "sourcePath": "cdn-assets/media/media-2259.mp4",
+      "sourceSha256": "562ab74ef7daa2e2713458afcf4d259c8ac04acc86c87cfe6ca92221fabc40e4",
+      "sourceBytes": 230748,
+      "sourceMetadata": {
+        "durationSeconds": 3.604,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.970029830932617,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2259.mp4",
+      "outputBytes": 230773,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "dd489ab38813d7fabd35c9a208e89354aa922932e02ad2f84c5436209b995161",
+      "outputMetadata": {
+        "durationSeconds": 3.604,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.966703414916992,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2259.jpg",
+      "posterBytes": 61465,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2260,
+      "sourcePath": "cdn-assets/media/media-2260.mp4",
+      "sourceSha256": "ba30469f4c352e53be48509a1ed0c012fac10ae9878ed626065f58b6d82b8371",
+      "sourceBytes": 460155,
+      "sourceMetadata": {
+        "durationSeconds": 7.067,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2260.mp4",
+      "outputBytes": 460200,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "f88b60bad188fc6f029b37f3441368b36cbe524440a75ea5d8d388f2037d9558",
+      "outputMetadata": {
+        "durationSeconds": 7.0669921875,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.998619079589844,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": -8e-06,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2260.jpg",
+      "posterBytes": 71799,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2261,
+      "sourcePath": "cdn-assets/media/media-2261.mp4",
+      "sourceSha256": "a40c51056e1af0fc573de270aa72639e259e70e6d853d9e56b9446151bb9be7a",
+      "sourceBytes": 360367,
+      "sourceMetadata": {
+        "durationSeconds": 4.972,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.970029830932617,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2261.mp4",
+      "outputBytes": 360400,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "fe98d9fa98dddefef4f3afb5240cb1fcbc292b9dadb9514e41082dc71aa69627",
+      "outputMetadata": {
+        "durationSeconds": 4.972,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.967819213867188,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2261.jpg",
+      "posterBytes": 60781,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2264,
+      "sourcePath": "cdn-assets/media/media-2264.mp4",
+      "sourceSha256": "964498015e08f4a825b8f8112d83a535af2b2456c6b1bc1557c5f655607269da",
+      "sourceBytes": 273206,
+      "sourceMetadata": {
+        "durationSeconds": 3.406328798185941,
+        "tracks": [
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          },
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2264.mp4",
+      "outputBytes": 271427,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "b9e3026bb0293a716640bf50da62ac1ccffd90f1c48ef95f4c96c4b9c4734cd3",
+      "outputMetadata": {
+        "durationSeconds": 3.4063183815192746,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1080,
+            "type": "vide",
+            "width": 608
+          }
+        ]
+      },
+      "durationDeltaSeconds": -1e-05,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2264.jpg",
+      "posterBytes": 54907,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2424,
+      "sourcePath": "cdn-assets/media/media-2424.mov",
+      "sourceSha256": "124270cdeed64a673e9dc00068b703b9c9ed006d35e5fc0d9d390d93e4ed2141",
+      "sourceBytes": 18810014,
+      "sourceMetadata": {
+        "durationSeconds": 7.033333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2424.mp4",
+      "outputBytes": 6247739,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "776d582f1afe1be89e0a620bb7492e891973036f8f372c0458dfd0d18bddef5b",
+      "outputMetadata": {
+        "durationSeconds": 7.033333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2424.jpg",
+      "posterBytes": 72480,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2425,
+      "sourcePath": "cdn-assets/media/media-2425.mov",
+      "sourceSha256": "5c6f530ca4d8d533f18eddf929a89b1b833e5ccb8a5a1a0d201f970d9cade011",
+      "sourceBytes": 18810014,
+      "sourceMetadata": {
+        "durationSeconds": 7.033333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2425.mp4",
+      "outputBytes": 6251677,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "5b979259d42faf6fe82460bca0227e6559af2617ccc624a811c76dd506310813",
+      "outputMetadata": {
+        "durationSeconds": 7.033333333333333,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2425.jpg",
+      "posterBytes": 72480,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2431,
+      "sourcePath": "cdn-assets/media/media-2431.mov",
+      "sourceSha256": "611d0a009368fb1547d79bff1e2a38713082c1e4d01405bcd0edf6dda019bae5",
+      "sourceBytes": 28759749,
+      "sourceMetadata": {
+        "durationSeconds": 10.466666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2431.mp4",
+      "outputBytes": 8554573,
+      "preset": "PresetAppleM4V720pHD",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": "Converted to unencrypted MP4-family M4V container and served with .mp4 extension; H.264/AAC verified by AVFoundation."
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "9ec3ccd1364cc2baad88ee481bf870f1576a87d09a93847811c44ca1a4cc186a",
+      "outputMetadata": {
+        "durationSeconds": 10.466666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2431.jpg",
+      "posterBytes": 70180,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2432,
+      "sourcePath": "cdn-assets/media/media-2432.mov",
+      "sourceSha256": "c32965455d11ea05005482762d463d817b72161c2dcb61db1b6b61905355bb68",
+      "sourceBytes": 3352255,
+      "sourceMetadata": {
+        "durationSeconds": 2.6,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2432.mp4",
+      "outputBytes": 759287,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "1b24e38c460987fe9438fa101932d3506bc6061f6610e7f7ecd3523b174545f8",
+      "outputMetadata": {
+        "durationSeconds": 2.6,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2432.jpg",
+      "posterBytes": 56288,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2435,
+      "sourcePath": "cdn-assets/media/media-2435.mov",
+      "sourceSha256": "c8e60bc648bb496b4ac29f8d627e480500df005b068c0fbf856737f521aea069",
+      "sourceBytes": 8997041,
+      "sourceMetadata": {
+        "durationSeconds": 4.8,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1920,
+            "type": "vide",
+            "width": 1080
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2435.mp4",
+      "outputBytes": 4490256,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "b9423661b359587b1187261585ddf5832102a082d66ce7b4fc2e2774c25c9271",
+      "outputMetadata": {
+        "durationSeconds": 4.8,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.999998092651367,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2435.jpg",
+      "posterBytes": 95179,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2436,
+      "sourcePath": "cdn-assets/media/media-2436.mov",
+      "sourceSha256": "cb36b83f2e2bc7c4eac220511c4ea38b2e4cb08a7a5a846767f64adc7b9b5ccf",
+      "sourceBytes": 5798749,
+      "sourceMetadata": {
+        "durationSeconds": 3.5,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1920,
+            "type": "vide",
+            "width": 1080
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2436.mp4",
+      "outputBytes": 3357712,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "0ed55a58bdbf9ab07797e0020c16f1280aedc1ce125260b14ca474619b831f9f",
+      "outputMetadata": {
+        "durationSeconds": 3.5,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2436.jpg",
+      "posterBytes": 75273,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2437,
+      "sourcePath": "cdn-assets/media/media-2437.mov",
+      "sourceSha256": "173bed25764f7cf639d024c630b7ee4ef22137b8b7fe5800feb77b709ef78f00",
+      "sourceBytes": 4996432,
+      "sourceMetadata": {
+        "durationSeconds": 3.3666666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2437.mp4",
+      "outputBytes": 1638986,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "87831ab9c463e923107c5097ccad6ca9c1e3b9f30037b3b173c0308f40fb8171",
+      "outputMetadata": {
+        "durationSeconds": 3.3666666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2437.jpg",
+      "posterBytes": 64800,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2438,
+      "sourcePath": "cdn-assets/media/media-2438.mov",
+      "sourceSha256": "5bd1514dc6309e5636c52e185f9531eccf35f5fd67fa4b54c7f815545ff0682d",
+      "sourceBytes": 9559059,
+      "sourceMetadata": {
+        "durationSeconds": 6.2316666666666665,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.008024215698242,
+            "height": 1920,
+            "type": "vide",
+            "width": 1080
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2438.mp4",
+      "outputBytes": 4909906,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "819351b5b8861c0c95f7365f3750c448f97799e49f5b697b9fa6ded82c99c9ce",
+      "outputMetadata": {
+        "durationSeconds": 6.2316666666666665,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 29.999998092651367,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2438.jpg",
+      "posterBytes": 64146,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2439,
+      "sourcePath": "cdn-assets/media/media-2439.mov",
+      "sourceSha256": "b977451c329e5bf9ccb34111558ada7d029230e2feb1b4746020c6447a7e3ea9",
+      "sourceBytes": 16404974,
+      "sourceMetadata": {
+        "durationSeconds": 9.765,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.0051212310791,
+            "height": 1920,
+            "type": "vide",
+            "width": 1080
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2439.mp4",
+      "outputBytes": 8265106,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "9492d3592d6aeffe70c2b04f99a7de2b70b570219181cf11d08e7058ae6fbe41",
+      "outputMetadata": {
+        "durationSeconds": 9.765,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30.005172729492188,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2439.jpg",
+      "posterBytes": 62085,
+      "posterSourceTimeSeconds": 1
+    },
+    {
+      "sourceId": 2440,
+      "sourcePath": "cdn-assets/media/media-2440.mov",
+      "sourceSha256": "65002a52a7579bdfe03ec60c176058daedb65166726673ec4fc1fe64d63dfa30",
+      "sourceBytes": 4996408,
+      "sourceMetadata": {
+        "durationSeconds": 3.3666666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "apac"
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 3840,
+            "type": "vide",
+            "width": 2160
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          },
+          {
+            "codecs": [
+              "mebx"
+            ],
+            "type": "meta"
+          }
+        ]
+      },
+      "outputPath": "cdn-assets/web/video/media-2440.mp4",
+      "outputBytes": 1640730,
+      "preset": "Preset1280x720",
+      "conversion": {
+        "success": true,
+        "exitCode": 0,
+        "message": ""
+      },
+      "sourceUnchanged": true,
+      "outputSha256": "0f4d0eb4976344c3320a635a9cab883da8045c6f609cbc386f809c10c7f00157",
+      "outputMetadata": {
+        "durationSeconds": 3.3666666666666667,
+        "tracks": [
+          {
+            "codecs": [
+              "aac "
+            ],
+            "type": "soun"
+          },
+          {
+            "codecs": [
+              "avc1"
+            ],
+            "fps": 30,
+            "height": 1280,
+            "type": "vide",
+            "width": 720
+          }
+        ]
+      },
+      "durationDeltaSeconds": 0.0,
+      "fastStart": true,
+      "browserCompatibleH264": true,
+      "frameDecodeVerified": true,
+      "posterPath": "cdn-assets/web/posters/media-2440.jpg",
+      "posterBytes": 64800,
+      "posterSourceTimeSeconds": 1
+    }
+  ],
+  "allH264": true,
+  "allFastStart": true,
+  "verificationMethod": "AVFoundation AVURLAsset duration, track codecs and transformed dimensions; SHA256 before/after; MP4 moov before mdat; 1s frame extraction using AVAssetImageGenerator for all38",
+  "totalPosterBytes": 2148544,
+  "allFramesDecoded": true,
+  "maximumOutputBytes": 12349251,
+  "maximumDurationDeltaSeconds": 0.026333
+}
